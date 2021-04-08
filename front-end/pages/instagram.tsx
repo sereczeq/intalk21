@@ -33,7 +33,7 @@ const Instagram = (props: Props) => {
             />
             </Grid>
             <Grid item xs={12} md={4} alignContent={"center"}>
-                <Typography variant={"h4"}>See our latest post!</Typography>
+                <Typography variant={"h4"}>Leave a follow!</Typography>
             </Grid>
         </Grid>
     );
